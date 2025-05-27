@@ -1,0 +1,10 @@
+{
+    "name": "TunnelersTrinkets",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Replaces the Cattlebug model with a bee.",
+    "dependencies": [
+        "HookGenPatcher_Wormtown-HookGenPatcher-1.2.11",
+        "BepInEx_Wormtown-BepInExPack-5.4.22"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "TunnelersTrinkets",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Adds 2 new pardner equipments and 1 new worm ability.",
+    "dependencies": [
+        "HookGenPatcher_Wormtown-HookGenPatcher-1.2.11",
+        "BepInEx_Wormtown-BepInExPack-5.4.22"
+    ]
+}
